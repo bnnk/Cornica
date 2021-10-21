@@ -1,15 +1,15 @@
 [SddmGreeterTheme]
-Name=Monterey
-Description=MacOS Monterey theme for KDE Plasma
-Author=VinceLiuice
+Name=Cornica:32
+Description=A Spin-off from Monterey and Orchis
+Author=BKShrinandhan
 License=GPL-3.0-or-later
 Type=sddm-theme
 Version=0.1
-Website=https://github.com/vinceliuice/Monterey-kde
+Website=https://github.com/bnnk/Cornica
 Screenshot=Preview.png
 MainScript=Main.qml
 ConfigFile=theme.conf
 TranslationsDirectory=translations
 Email=vinceliuice@hotmail.com
-Theme-Id=Monterey
+Theme-Id=Cornica
 Theme-API=2.0

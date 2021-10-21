@@ -75,10 +75,10 @@ SessionManagementScreen {
             placeholderTextColor: passwordFieldOutlined ? "white" : "white"
             passwordCharacter: config.PasswordFieldCharacter == "" ? "●" : config.PasswordFieldCharacter
             background: Rectangle {
-                radius: 100
-                border.color: "white"
-                border.width: 1
-                color: "white"
+                radius: 10
+                border.color: "#1A73E8"
+                border.width: 2
+                color: "#48316f"
             }
         }
 
